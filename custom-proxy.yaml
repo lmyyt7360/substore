@@ -36,9 +36,4 @@ payload:
   - DOMAIN-SUFFIX,azure.microsoft.com
   - DOMAIN-SUFFIX,aws.amazon.com
   - DOMAIN-SUFFIX,lisahost.com
-  - DOMAIN-SUFFIX,synn.cc
-  - DOMAIN-SUFFIX,313445.xyz
-  - DOMAIN-SUFFIX,uhdnow.com
-  - DOMAIN-SUFFIX,zn.al
-  - DOMAIN-SUFFIX,recmata.net
-  - DOMAIN-SUFFIX,candytallymovie.vip
+
