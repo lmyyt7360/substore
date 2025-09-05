@@ -36,3 +36,10 @@ payload:
   - DOMAIN-SUFFIX,azure.microsoft.com
   - DOMAIN-SUFFIX,aws.amazon.com
   - DOMAIN-SUFFIX,lisahost.com
+  - DOMAIN-SUFFIX,stream.synn.cc
+  - DOMAIN-SUFFIX,matrix.313445.xyz
+  - DOMAIN-SUFFIX,restrict.313445.xyz
+  - DOMAIN-SUFFIX,v1.uhdnow.com
+  - DOMAIN-SUFFIX,emby.zn.al
+  - DOMAIN-SUFFIX,vision.recmata.net
+  - DOMAIN-SUFFIX,candytallymovie.vip
