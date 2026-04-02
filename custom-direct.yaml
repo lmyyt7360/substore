@@ -12,7 +12,6 @@ payload:
   - firebaseinstallations.googleapis.com
   - fcm.googleapis.com
   - gcm.googleapis.com
-  - android.clients.google.com
   - immersivetranslate.com
   - mtalk4.google.com
   - mtalk-staging.google.com
